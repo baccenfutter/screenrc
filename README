@@ -1,34 +1,5 @@
 Hi folks
 
-I just wanted to »github« my .screenrc for anyone who's interested and for the
-sake of my $BUDDY yncyrydybyl who has been bothering my to register for a github
-account for almost two weeks now.
-
-=== Insights ===
-Since I don't like byobu all that much, I rather stick to the oldskool escape
-sequences used back in the old days. They are definatly harder to understand
-than ncurses menus, but the results just look way better at the end.
-
-I am considering opening a bunch of branches with other look&feel stuff and
-even some global configuration tweaking.
-
-I'd be more than happy to receive pushes on what other's rc's look like or in
-which way they have modified this one to suit their needs.
-
-
-=== Features ===
-In this initial release the following information are displayed in the bottom
-line within your screen session.
- * Date (yellow)
- * Time (white)
- * The $USER (dark-green)
- * The $HOSTNAME (dark-red)
- * The loadavg (green)
- * Additionally connected users within a mutliuser session (yellow)
- * A panel showing all windows
-   -> selected window (red)
-   -> unselcted windows (mint)
-   -> In mutltiuser sessions the other user is displayed next to the window
-      he is attached to (yellow)
+Here is a snippet I have found online to enable 256 colors within screen.
 
 Enjoy!
